@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">CloudTariff</string>
+
+    <string name="tutorial_page1_title">Your files anywhere</string>
+    <string name="tutorial_page1_message">Cloud Mail.Ru gives you access to\u00A0your files anywhere you have an\u00A0internet connection</string>
+    <string name="tutorial_page2_title">Never lost</string>
+    <string name="tutorial_page2_message">Even if you lose your phone or your computer breaks down you\'ll be able to recover files saved in the Cloud</string>
+    <string name="tutorial_page3_title">Any devices</string>
+    <string name="tutorial_page3_message">You can take a photo or video with your phone and watch it on any of your devices</string>
+    <string name="tutorial_page5_title">Auto camera upload</string>
+    <string name="tutorial_page5_message">Enable automatic photo uploading and you\'ll be able to view them from your devices connected to the Cloud</string>
+    <string name="tutorial_page5_checkbox_title">Enable</string>
 </resources>
